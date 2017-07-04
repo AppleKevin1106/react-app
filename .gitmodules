@@ -174,3 +174,7 @@
 	path = apps/plant
 	url = git@github.com:guyellis/plant.git
 	branch = master
+[submodule "apps/hyper"]
+	path = apps/hyper
+	url = git@github.com:zeit/hyper.git
+	branch = master
