@@ -50,10 +50,6 @@
 	path = apps/spectacle
 	url = git@github.com:FormidableLabs/spectacle.git
 	branch = master
-[submodule "apps/gatsby"]
-	path = apps/gatsby
-	url = git@github.com:gatsbyjs/gatsby.git
-	branch = master
 [submodule "apps/react-news"]
 	path = apps/react-news
 	url = git@github.com:echenley/react-news.git
