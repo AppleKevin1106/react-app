@@ -23,6 +23,13 @@ git submodule update --init
 
 ## Information for Contributors
 
+#### Is your app the right fit?
+
+- A real world app should ideally be publicly accessible and used by real people in a production environment. As such, boilerplate, starter kits, libraries, and small demo/example projects are not really a good fit.
+- Ideally most of the code should be frontend-oriented, in order to focus on React. Small backends may be OK, but should constitute the minority of the codebase.
+
+That being said, don't hesitate to submit a pull request if you meet the criteria!
+
 #### How to add a Real World App
 
 Given a GitHub repo for an app `githubuser/foo`:
