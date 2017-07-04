@@ -4,7 +4,7 @@
 
 Learn from React apps written by experienced developers.
 
-You&rsquo;ll find the source code for the Real World React apps in the [`apps/`](apps/) subdirectory.
+You'll find the source code for the Real World React apps in the [`apps/`](apps/) subdirectory.
 
 Thank you to every developer who has worked on a project this repo links to, your work is helping developers learn React.
 
@@ -18,7 +18,7 @@ cd real-world-react/
 
 # The apps are linked to as git submodules.
 # This will take some time...
-git submodule update --init  
+git submodule update --init
 ```
 
 ## Information for Contributors

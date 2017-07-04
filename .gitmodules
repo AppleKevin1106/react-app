@@ -1,132 +1,175 @@
 [submodule "apps/conduit"]
 	path = apps/conduit
 	url = git@github.com:gothinkster/react-redux-realworld-example-app.git
+	branch = master
 [submodule "apps/react-hn"]
 	path = apps/react-hn
 	url = git@github.com:insin/react-hn.git
+	branch = master
 [submodule "apps/github-battle-app"]
 	path = apps/github-battle-app
 	url = git@github.com:ReactTraining/react-fundamentals.git
+	branch = hosting
 [submodule "apps/flatris"]
 	path = apps/flatris
 	url = git@github.com:skidding/flatris.git
+	branch = master
 [submodule "apps/sound-redux"]
 	path = apps/sound-redux
 	url = git@github.com:andrewngu/sound-redux.git
+	branch = master
 [submodule "apps/kitematic"]
 	path = apps/kitematic
 	url = git@github.com:docker/kitematic.git
+	branch = master
 [submodule "apps/wp-calypso"]
 	path = apps/wp-calypso
 	url = git@github.com:Automattic/wp-calypso.git
+	branch = master
 [submodule "apps/react-iTunes-search"]
 	path = apps/react-iTunes-search
 	url = git@github.com:LeoAJ/react-iTunes-search.git
+	branch = master
 [submodule "apps/sprintly-ui"]
 	path = apps/sprintly-ui
 	url = git@github.com:sprintly/sprintly-ui.git
+	branch = master
 [submodule "apps/grommet"]
 	path = apps/grommet
 	url = git@github.com:grommet/grommet.git
+	branch = master
 [submodule "apps/dockunit-platform"]
 	path = apps/dockunit-platform
 	url = git@github.com:dockunit/platform.git
+	branch = master
 [submodule "apps/retro-board"]
 	path = apps/retro-board
 	url = git@github.com:antoinejaussoin/retro-board.git
+	branch = master
 [submodule "apps/spectacle"]
 	path = apps/spectacle
 	url = git@github.com:FormidableLabs/spectacle.git
+	branch = master
 [submodule "apps/gatsby"]
 	path = apps/gatsby
 	url = git@github.com:gatsbyjs/gatsby.git
+	branch = master
 [submodule "apps/react-news"]
 	path = apps/react-news
 	url = git@github.com:echenley/react-news.git
+	branch = master
 [submodule "apps/mortgage"]
 	path = apps/mortgage
 	url = git@github.com:paulhoughton/mortgage.git
+	branch = master
 [submodule "apps/favesound-redux"]
 	path = apps/favesound-redux
 	url = git@github.com:rwieruch/favesound-redux.git
+	branch = master
 [submodule "apps/itsquiz-wall"]
 	path = apps/itsquiz-wall
 	url = git@github.com:WebbyLab/itsquiz-wall.git
+	branch = master
 [submodule "apps/react-photo-feed"]
 	path = apps/react-photo-feed
 	url = git@github.com:lkazberova/react-photo-feed.git
+	branch = master
 [submodule "apps/react-solitaire"]
 	path = apps/react-solitaire
 	url = git@github.com:pl12133/react-solitaire.git
+	branch = master
 [submodule "apps/isomorphic500"]
 	path = apps/isomorphic500
 	url = git@github.com:gpbl/isomorphic500.git
+	branch = master
 [submodule "apps/perseus"]
 	path = apps/perseus
 	url = git@github.com:Khan/perseus.git
+	branch = master
 [submodule "apps/react-calculator"]
 	path = apps/react-calculator
 	url = git@github.com:benoitvallon/react-native-nw-react-calculator.git
+	branch = master
 [submodule "apps/react-pomodoro"]
 	path = apps/react-pomodoro
 	url = git@github.com:afonsopacifer/react-pomodoro.git
+	branch = master
 [submodule "apps/do"]
 	path = apps/do
 	url = git@github.com:1ven/do.git
+	branch = master
 [submodule "apps/reddit-mobile"]
 	path = apps/reddit-mobile
 	url = git@github.com:reddit/reddit-mobile.git
+	branch = master
 [submodule "apps/i-have-to-return-some-videotapes"]
 	path = apps/i-have-to-return-some-videotapes
 	url = git@github.com:stevenhauser/i-have-to-return-some-videotapes.git
+	branch = master
 [submodule "apps/pdxlivebus"]
 	path = apps/pdxlivebus
 	url = git@github.com:browniefed/pdxlivebus.git
+	branch = master
 [submodule "apps/react-yelp-clone"]
 	path = apps/react-yelp-clone
 	url = git@github.com:fullstackreact/react-yelp-clone.git
+	branch = master
 [submodule "apps/bobonroastprofile"]
 	path = apps/bobonroastprofile
 	url = git@github.com:project-bobon/bobonroastprofile.git
+	branch = master
 [submodule "apps/react-music"]
 	path = apps/react-music
 	url = git@github.com:FormidableLabs/react-music.git
+	branch = master
 [submodule "apps/react-trello-board"]
 	path = apps/react-trello-board
 	url = git@github.com:web-pal/react-trello-board.git
+	branch = master
 [submodule "apps/react-tetris"]
 	path = apps/react-tetris
 	url = git@github.com:chvin/react-tetris.git
+	branch = master
 [submodule "apps/debugger.html"]
 	path = apps/debugger.html
 	url = git@github.com:devtools-html/debugger.html.git
+	branch = master
 [submodule "apps/illustrated-algorithms"]
 	path = apps/illustrated-algorithms
 	url = git@github.com:skidding/illustrated-algorithms.git
+	branch = master
 [submodule "apps/reactjs-tmdb-app"]
 	path = apps/reactjs-tmdb-app
 	url = git@github.com:SKempin/reactjs-tmdb-app.git
+	branch = master
 [submodule "apps/lifequote"]
 	path = apps/lifequote
 	url = git@github.com:insin/lifequote.git
+	branch = master
 [submodule "apps/dribble-demo"]
 	path = apps/dribble-demo
 	url = git@github.com:afghl/dribble-demo.git
+	branch = master
 [submodule "apps/refire-forum"]
 	path = apps/refire-forum
 	url = git@github.com:hoppula/refire-forum.git
+	branch = master
 [submodule "apps/dripr-ui"]
 	path = apps/dripr-ui
 	url = git@github.com:DevAlien/dripr-ui.git
+	branch = master
 [submodule "apps/invoice-frontend"]
 	path = apps/invoice-frontend
 	url = git@github.com:koodilehto/invoice-frontend.git
+	branch = master
 [submodule "apps/torontojs.com"]
 	path = apps/torontojs.com
 	url = git@github.com:torontojs/torontojs.com.git
+	branch = master
 [submodule "apps/guesstimate-app"]
 	path = apps/guesstimate-app
 	url = git@github.com:getguesstimate/guesstimate-app.git
+	branch = master
 [submodule "apps/plant"]
 	path = apps/plant
 	url = git@github.com:guyellis/plant.git
