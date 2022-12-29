@@ -60,17 +60,6 @@ ag 'let ' --js --stats-only | head -n 1
 ag 'const ' --js --stats-only | head -n 1
 ```
 
-## Other Real World codebase collections
-
-- Real World React Native https://github.com/jeromedalbert/real-world-react-native
-- Real World Rails https://github.com/eliotsykes/real-world-rails
-- Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
-- Real World Ruby Apps https://github.com/jeromedalbert/real-world-ruby-apps
-- Real World Ember https://github.com/eliotsykes/real-world-ember
-- Know any others? Please open a PR and add the link here
-
-## Information for contributors
-
 #### Is your app the right fit?
 
 - A real world app should be publicly accessible and used by real people in a production environment.
